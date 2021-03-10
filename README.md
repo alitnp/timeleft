@@ -23,13 +23,11 @@ Functions:
 
 ### Installation
 
-Install NPM packages
+Install NPM package
 
 ```sh
 npm i timeleft
 ```
-
-05185320
 
 ## Usage
 
